@@ -8,6 +8,7 @@ Participantes: Vithorio Da Conceição Dutra & William Dietrich Klug
 Orientador: Professor Alejandro Martins Rodriguez
 
 Evolução do Índice de Inflação no Brasil ao Longo do Tempo
+
 ![image](https://github.com/user-attachments/assets/aee36c3b-b969-4fc6-95ef-fb1138118688)
 
 Matriz de Transição de Estados
