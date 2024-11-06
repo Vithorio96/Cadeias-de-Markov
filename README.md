@@ -6,3 +6,4 @@ Este projeto explora a utilização de cadeias de Markov para modelar e analisar
 
 Participantes: Vithorio Da Conceição Dutra & William Dietrich Klug
 Orientador: Professor Alejandro Martins Rodriguez
+![image](https://github.com/user-attachments/assets/aee36c3b-b969-4fc6-95ef-fb1138118688)
